@@ -1,3 +1,14 @@
+> **CultureReset fork of [obra/superpowers](https://github.com/obra/superpowers).** An agentic skills framework & software development methodology that works.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/obra/superpowers).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Superpowers
 
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
